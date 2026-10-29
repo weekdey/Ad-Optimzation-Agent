@@ -1,0 +1,64 @@
+date,channel,old_budget,new_budget,reason
+2026-01-01,Display,333.33,333.33,Started with an equal budget split.
+2026-01-01,Search,333.33,333.33,Started with an equal budget split.
+2026-01-01,Social,333.33,333.33,Started with an equal budget split.
+2026-01-02,Display,333.33,266.67,Increased Search by $66.67 because it had the highest conversion efficiency. Reduced Display by $66.67. Minimum budget and daily change limits were applied.
+2026-01-02,Search,333.33,400.0,Increased Search by $66.67 because it had the highest conversion efficiency. Reduced Display by $66.67. Minimum budget and daily change limits were applied.
+2026-01-02,Social,333.33,333.33,Increased Search by $66.67 because it had the highest conversion efficiency. Reduced Display by $66.67. Minimum budget and daily change limits were applied.
+2026-01-03,Display,266.67,213.33,Increased Search by $53.33 because it had the highest conversion efficiency. Reduced Display by $53.33. Minimum budget and daily change limits were applied.
+2026-01-03,Search,400.0,453.33,Increased Search by $53.33 because it had the highest conversion efficiency. Reduced Display by $53.33. Minimum budget and daily change limits were applied.
+2026-01-03,Social,333.33,333.33,Increased Search by $53.33 because it had the highest conversion efficiency. Reduced Display by $53.33. Minimum budget and daily change limits were applied.
+2026-01-04,Display,213.33,170.67,Increased Search by $42.67 because it had the highest conversion efficiency. Reduced Display by $42.67. Minimum budget and daily change limits were applied.
+2026-01-04,Search,453.33,496.0,Increased Search by $42.67 because it had the highest conversion efficiency. Reduced Display by $42.67. Minimum budget and daily change limits were applied.
+2026-01-04,Social,333.33,333.33,Increased Search by $42.67 because it had the highest conversion efficiency. Reduced Display by $42.67. Minimum budget and daily change limits were applied.
+2026-01-05,Display,170.67,150.0,Increased Search by $20.67 because it had the highest conversion efficiency. Reduced Display by $20.67. Minimum budget and daily change limits were applied.
+2026-01-05,Search,496.0,516.67,Increased Search by $20.67 because it had the highest conversion efficiency. Reduced Display by $20.67. Minimum budget and daily change limits were applied.
+2026-01-05,Social,333.33,333.33,Increased Search by $20.67 because it had the highest conversion efficiency. Reduced Display by $20.67. Minimum budget and daily change limits were applied.
+2026-01-06,Display,150.0,150.0,Budget remained stable because guardrails prevented a shift.
+2026-01-06,Search,516.67,516.67,Budget remained stable because guardrails prevented a shift.
+2026-01-06,Social,333.33,333.33,Budget remained stable because guardrails prevented a shift.
+2026-01-07,Display,150.0,150.0,Budget remained stable because guardrails prevented a shift.
+2026-01-07,Search,516.67,516.67,Budget remained stable because guardrails prevented a shift.
+2026-01-07,Social,333.33,333.33,Budget remained stable because guardrails prevented a shift.
+2026-01-08,Display,150.0,150.0,Budget remained stable because guardrails prevented a shift.
+2026-01-08,Search,516.67,516.67,Budget remained stable because guardrails prevented a shift.
+2026-01-08,Social,333.33,333.33,Budget remained stable because guardrails prevented a shift.
+2026-01-09,Display,150.0,150.0,Budget remained stable because guardrails prevented a shift.
+2026-01-09,Search,516.67,516.67,Budget remained stable because guardrails prevented a shift.
+2026-01-09,Social,333.33,333.33,Budget remained stable because guardrails prevented a shift.
+2026-01-10,Display,150.0,150.0,Budget remained stable because guardrails prevented a shift.
+2026-01-10,Search,516.67,516.67,Budget remained stable because guardrails prevented a shift.
+2026-01-10,Social,333.33,333.33,Budget remained stable because guardrails prevented a shift.
+2026-01-11,Display,150.0,150.0,Budget remained stable because guardrails prevented a shift.
+2026-01-11,Search,516.67,516.67,Budget remained stable because guardrails prevented a shift.
+2026-01-11,Social,333.33,333.33,Budget remained stable because guardrails prevented a shift.
+2026-01-12,Display,150.0,150.0,Budget remained stable because guardrails prevented a shift.
+2026-01-12,Search,516.67,516.67,Budget remained stable because guardrails prevented a shift.
+2026-01-12,Social,333.33,333.33,Budget remained stable because guardrails prevented a shift.
+2026-01-13,Display,150.0,150.0,Budget remained stable because guardrails prevented a shift.
+2026-01-13,Search,516.67,516.67,Budget remained stable because guardrails prevented a shift.
+2026-01-13,Social,333.33,333.33,Budget remained stable because guardrails prevented a shift.
+2026-01-14,Display,150.0,150.0,Budget remained stable because guardrails prevented a shift.
+2026-01-14,Search,516.67,516.67,Budget remained stable because guardrails prevented a shift.
+2026-01-14,Social,333.33,333.33,Budget remained stable because guardrails prevented a shift.
+2026-01-15,Display,150.0,150.0,Budget remained stable because guardrails prevented a shift.
+2026-01-15,Search,516.67,516.67,Budget remained stable because guardrails prevented a shift.
+2026-01-15,Social,333.33,333.33,Budget remained stable because guardrails prevented a shift.
+2026-01-16,Display,150.0,150.0,Budget remained stable because guardrails prevented a shift.
+2026-01-16,Search,516.67,516.67,Budget remained stable because guardrails prevented a shift.
+2026-01-16,Social,333.33,333.33,Budget remained stable because guardrails prevented a shift.
+2026-01-17,Display,150.0,150.0,Budget remained stable because guardrails prevented a shift.
+2026-01-17,Search,516.67,516.67,Budget remained stable because guardrails prevented a shift.
+2026-01-17,Social,333.33,333.33,Budget remained stable because guardrails prevented a shift.
+2026-01-18,Display,150.0,150.0,Budget remained stable because guardrails prevented a shift.
+2026-01-18,Search,516.67,516.67,Budget remained stable because guardrails prevented a shift.
+2026-01-18,Social,333.33,333.33,Budget remained stable because guardrails prevented a shift.
+2026-01-19,Display,150.0,150.0,Budget remained stable because guardrails prevented a shift.
+2026-01-19,Search,516.67,516.67,Budget remained stable because guardrails prevented a shift.
+2026-01-19,Social,333.33,333.33,Budget remained stable because guardrails prevented a shift.
+2026-01-20,Display,150.0,150.0,Budget remained stable because guardrails prevented a shift.
+2026-01-20,Search,516.67,516.67,Budget remained stable because guardrails prevented a shift.
+2026-01-20,Social,333.33,333.33,Budget remained stable because guardrails prevented a shift.
+2026-01-21,Display,150.0,150.0,Budget remained stable because guardrails prevented a shift.
+2026-01-21,Search,516.67,516.67,Budget remained stable because guardrails prevented a shift.
+2026-01-21,Social,333.33,333.33,Budget remained stable because guardrails prevented a shift.
